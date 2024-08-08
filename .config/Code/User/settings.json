@@ -1,0 +1,22 @@
+{
+  // Appearance
+  "editor.fontFamily": "JetBrainsMono Nerd Font, monospace", // Cool fonts: 'Dank Mono', 'JetBrains Mono' or 'SF Mono'
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.letterSpacing": 0.4,
+  "editor.lineHeight": 1.7,
+  "workbench.colorTheme": "Palenight Italic",
+  "workbench.iconTheme": "symbols",
+
+  // Terminal
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font, monospace",
+  "terminal.integrated.fontSize": 14,
+
+  // Actions on save
+  // "editor.formatOnSave": true,
+  // "editor.codeActionsOnSave": { "source.fixAll.eslint": "always" },
+
+  // Symbols
+  "symbols.hidesExplorerArrows": false,
+  "window.menuBarVisibility": "toggle",
+}
