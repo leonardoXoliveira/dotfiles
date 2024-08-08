@@ -55,3 +55,6 @@
 
 [init]
 	defaultBranch = main
+
+[includeIf "gitdir:~/TIVIT/"]
+    	email=leonardo.oliveira@lambda3.com.br
