@@ -55,6 +55,3 @@
 
 [init]
 	defaultBranch = main
-
-[includeIf "gitdir:~/Tivit/"] # Include for all .git projects under folder
-  email = leonardo.oliveira@lambda3.com.br
